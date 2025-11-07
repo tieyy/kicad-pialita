@@ -1,2 +1,2 @@
-# kicad-pialita
+# pialita
 rangkaian baterai
